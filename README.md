@@ -1,2 +1,4 @@
-# DogeCrypter
-Simple C# Text Encyptor
+#DogeCrypter 
+
+
+Simple C# strings Encryptor
